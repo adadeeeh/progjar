@@ -16,7 +16,7 @@ while True:
     down_file = open("downloads/"+nama_file[1], "wb")
     while tmp:
         print new_tmp[0]
-        down_file.writelines(new_tmp[1:])
+        down_file.writelines(new_tmp[2:])
         tmp = client_socket.recv(1024)
     break
 

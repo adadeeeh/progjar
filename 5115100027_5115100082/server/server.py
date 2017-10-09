@@ -29,7 +29,7 @@ try:
                   print "unduh "+file2+" dari alien"
                   with open(path, 'rb') as file:
                      up_file = file.read()
-                  header = "name: "+file2+"\n"
+                  header = "name: "+file2+"\n"+"file_size: " + str(os.path.getsize('/home/pedro/Documents/python-networking/5115100027_5115100082/server/dataset/'+file2))+"\n"
                   print up_file
                   paket = header+up_file
                   print paket

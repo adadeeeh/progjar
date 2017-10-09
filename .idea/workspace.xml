@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0bc508a-e355-4194-965b-164944ea3623" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5115100027_5115100082/5115100027_5115100082.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5115100027_5115100082/.idea/5115100027_5115100082.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5115100027_5115100082/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5115100027_5115100082/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5115100027_5115100082/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5115100027_5115100082/client/downloads/tes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5115100027_5115100082/server/dataset/tes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5115100027_5115100082/client/downloads/BennieAndTheJets.mp3" afterPath="$PROJECT_DIR$/5115100027_5115100082/client/downloads/BennieAndTheJets.mp3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5115100027_5115100082/client/downloads/dreams.mp3" afterPath="$PROJECT_DIR$/5115100027_5115100082/client/downloads/dreams.mp3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5115100027_5115100082/client/downloads/gambar.png" afterPath="$PROJECT_DIR$/5115100027_5115100082/client/downloads/gambar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5115100027_5115100082/server/dataset/dreams.mp3" afterPath="$PROJECT_DIR$/5115100027_5115100082/server/dataset/dreams.mp3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5115100027_5115100082/client/client.py" afterPath="$PROJECT_DIR$/5115100027_5115100082/client/client.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5115100027_5115100082/client/downloads/tes.html" afterPath="$PROJECT_DIR$/5115100027_5115100082/client/downloads/tes.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5115100027_5115100082/server/server.py" afterPath="$PROJECT_DIR$/5115100027_5115100082/server/server.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="server.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5115100027_5115100082/server/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+            <state relative-caret-position="235">
+              <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -62,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="client.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="client.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/5115100027_5115100082/client/client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="221">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -85,8 +76,8 @@
         <option value="$PROJECT_DIR$/client-select.py" />
         <option value="$PROJECT_DIR$/5115100027_51151000082/server/server.py" />
         <option value="$PROJECT_DIR$/5115100027_51151000082/client/client.py" />
-        <option value="$PROJECT_DIR$/5115100027_5115100082/client/client.py" />
         <option value="$PROJECT_DIR$/5115100027_5115100082/server/server.py" />
+        <option value="$PROJECT_DIR$/5115100027_5115100082/client/client.py" />
       </list>
     </option>
   </component>
@@ -265,11 +256,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="715" y="24" width="651" height="744" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21658987" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39811912" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39811912" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -364,20 +356,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5115100027_5115100082/client/client.py">
+    <entry file="file://$PROJECT_DIR$/5115100027_5115100082/server/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="235">
+          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5115100027_5115100082/server/server.py">
+    <entry file="file://$PROJECT_DIR$/5115100027_5115100082/client/client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        <state relative-caret-position="221">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
