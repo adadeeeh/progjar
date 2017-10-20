@@ -6,5 +6,5 @@ def worker(num):
 threads = []
 for i in range(5):
 	t = threading.Thread(target=worker, args(i, ))
-	threads.append(1)
+	threads.append(i)
 	t.start()
